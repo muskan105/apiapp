@@ -25,7 +25,7 @@ python manage.py migrate
 # Start the server:
 python manage.py runserver
 
-#API Routes
+# API Routes
 
 # GET /realestate
 Returns a list of all properties.
