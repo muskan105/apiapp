@@ -14,7 +14,7 @@ Django REST framework 3.12.4 or higher
 git clone https://github.com/muskan105/realestateapi
 
 # Navigate to the project directory:
-cd realestate-api
+cd apiapp
 
 # Install the required packages:
 pip install -r requirements.txt
